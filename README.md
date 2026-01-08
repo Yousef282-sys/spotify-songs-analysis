@@ -9,6 +9,7 @@ This Data Science project performs exploratory data analysis (EDA) on a Spotify 
 - NumPy
 - Matplotlib / Seaborn
 
+
 ## 📊 Features
 - Data cleaning: handled missing values, duplicates, and inconsistent data
 - Visualizations: distribution of song features, top artists, popularity trends
